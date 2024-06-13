@@ -68,6 +68,10 @@ Database: SQLite (for storing uploaded files temporarily)
 
 Python 3.9
 
+**Setup Instructions**
+
+Install the requirements using the command "$ pip install -r requirements.txt" in Terminal then run the command "python manage.py runserver" in terminal and access the server link. 
+
 
 
 **Contributing**
