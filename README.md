@@ -31,12 +31,12 @@ The exploratory data analysis (EDA) focuses on understanding the structure and c
 **Histograms:** Generate histograms for numerical columns to visualize the distribution of the data.
 
 
-<img width="1027" alt="Screenshot 2024-06-13 at 15 06 17" src="https://github.com/tushar25012000/DjangoWebApp/assets/127213767/f3a40e08-5a40-4ac2-9e84-1c169d42a90a">
+![WhatsApp Image 2024-06-13 at 20 27 53_ef058431](https://github.com/tushar25012000/Django-CSV-Analysis-Webapp/assets/127213767/636cacdd-5ef4-436a-81fa-89db52849e6a)
 
 
 **Histogram**
 
-<img width="1278" alt="Screenshot 2024-06-13 at 15 07 26" src="https://github.com/tushar25012000/DjangoWebApp/assets/127213767/5f3127c1-6bcf-4460-b560-6788e905f999">
+![WhatsApp Image 2024-06-13 at 20 27 53_99cb6abb](https://github.com/tushar25012000/Django-CSV-Analysis-Webapp/assets/127213767/9015b82f-f4bf-48ea-a157-50acb1d21b2a)
 
 
 
